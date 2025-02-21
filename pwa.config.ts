@@ -4,8 +4,7 @@ export default {
   id: '/',
   name: 'anime play',
   shortName: 'anime play',
-  description: 'anime play is one of the best online anime streaming site where you can watch & download free Hindi, Tamil, Telugu Dubbed Anime
-',
+  description: 'anime play is one of the best online anime streaming site where you can watch & download free Hindi, Tamil, Telugu Dubbed Anime',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#000',
