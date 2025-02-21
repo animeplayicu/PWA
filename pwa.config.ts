@@ -2,17 +2,17 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'anime play',
+  shortName: 'animeplay',
+  description: 'Just enjoy the mobile version of your favorite site',
   direction: 'auto',
   language: 'en-US',
-  backgroundColor: '#fff',
-  themeColor: '#fff',
+  backgroundColor: '#000',
+  themeColor: '#7b1fa2',
   display: 'standalone',
   orientation: 'natural',
   scope: '/',
-  startUrl: '/?utm_source=homescreen',
+  startUrl: 'https://www.animeplay.icu',
   appleStatusBarStyle: 'black-translucent',
   preferRelatedApplications: false,
   shortcuts: [
@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.animeplay.icu',
 } satisfies Config;
