@@ -6,7 +6,7 @@
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "https://www.animeplay.icu",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
