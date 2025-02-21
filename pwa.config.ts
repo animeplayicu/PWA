@@ -12,7 +12,7 @@ export default {
   display: 'standalone',
   orientation: 'natural',
   scope: '/',
-  startUrl: 'https://www.animeplay.icu',
+  startUrl: '/?utm_source=homescreen',
   appleStatusBarStyle: 'black-translucent',
   preferRelatedApplications: false,
   shortcuts: [
