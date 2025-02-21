@@ -1,17 +1,17 @@
 {
-  "name": "My Blog",
+  "name": "anime play",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "animeplay",
+  "description": "Just enjoy the mobile version of your favorite site",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "https://www.animeplay.icu",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#000",
+  "theme_color": "#7b1fa2",
   "icons": [
     {
       "src": "icons/favicon.ico",

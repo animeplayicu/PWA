@@ -1,17 +1,17 @@
 {
-  "name": "My Blog",
+  "name": "anime play",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "animeplay",
+  "description": "Just enjoy the mobile version of your favorite site",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://www.animeplay.icu/",
+  "scope": "https://www.animeplay.icu/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#000",
+  "theme_color": "#7b1fa2",
   "icons": [
     {
       "src": "icons/favicon.ico",
@@ -118,7 +118,7 @@
       "name": "Shortcut 1",
       "short_name": "Shortcut 1",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "url": "https://www.animeplay.icu/search/label/shortcut-1?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -130,7 +130,7 @@
       "name": "Shortcut 2",
       "short_name": "Shortcut 2",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://www.animeplay.icu/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
