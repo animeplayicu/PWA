@@ -1,5 +1,5 @@
 /**
- * This is auto generated metadata file, generated at: Fri Feb 21 2025 15:26:17 GMT+0000 (Coordinated Universal Time)
+ * This is auto generated metadata file, generated at: Fri Feb 21 2025 15:58:16 GMT+0000 (Coordinated Universal Time)
  * Prevent making any changes here
  */
 
@@ -27,5 +27,5 @@ export interface Metadata {
 }
 
 export const metadata = JSON.parse(
-  '{"github":{"repository":"animeplayicu/PWA","branch":"main"},"pwa":{"oneSignalEnabled":false,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"********-****-****-****-************","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"y9PgmeMFedTpmY4CzOiw8"}}',
+  '{"github":{"repository":"animeplayicu/PWA","branch":"main"},"pwa":{"oneSignalEnabled":false,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"********-****-****-****-************","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"-DKC9osVKK6GKBHlydA1-"}}',
 ) as Metadata;
